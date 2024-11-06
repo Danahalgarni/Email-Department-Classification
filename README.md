@@ -1,12 +1,14 @@
 ---
+
 # Email Department Classification Using NLP and Deep Learning
+
 ## Project Overview
 
 With the growing volume of emails in today’s business environment, managing and categorizing them effectively has become a significant challenge. This project aims to automate email classification using Natural Language Processing (NLP) and deep learning techniques, sorting emails into three key departments:
 
 - **Customer Service**
-- **Human Resources (HR)**
 - **Information Technology (IT)**
+- **Human Resources (HR)**
 
 By leveraging deep learning models, the goal is to streamline email management and improve efficiency.
 
