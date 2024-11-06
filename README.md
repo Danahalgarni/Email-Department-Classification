@@ -68,7 +68,7 @@ To replicate this project, follow these steps:
 
 3. **Run the script**:
    ```bash
-   python classify_emails.py
+   python EmailDepartmentClassification.ipnyp
    ```
 
 ---
